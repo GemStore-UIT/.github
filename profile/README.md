@@ -1,12 +1,13 @@
-## Hi there 👋
+# GemStore 
+_An application for managing a gem store in import-export products_
 
-<!--
+### Frontend:
+- Flutter (cross-platform mobile application)
+- Bloc (state management)
+- SharedPreferences (local data storage)
 
-**Here are some ideas to get you started:**
+### Backend:
+- SpringBoot (RESTful API)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### Database:
+- MySQL 
